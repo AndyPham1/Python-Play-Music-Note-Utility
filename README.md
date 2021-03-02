@@ -1,4 +1,4 @@
-# Notes
+# Python Utility Module To Play Music Notes
 <h5> Description </h5>
 Python modules for music notes
 <h5> Example usage </h5>
